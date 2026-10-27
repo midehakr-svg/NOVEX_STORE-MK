@@ -1,0 +1,4 @@
+project_id = "zxfnuqoioidlhpojskwe"
+
+[functions.owner-products]
+verify_jwt = false
